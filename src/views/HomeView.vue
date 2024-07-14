@@ -27,11 +27,11 @@ const modules = [Pagination, EffectCoverflow];
         :modules="modules"
         class=""
     >
-      <swiper-slide><img src="../assets/images/2.jpg" alt=""></swiper-slide>
       <swiper-slide><img src="../assets/images/3.jpg" alt=""></swiper-slide>
       <swiper-slide><img src="../assets/images/4.jpg" alt=""></swiper-slide>
       <swiper-slide><img src="../assets/images/6.jpg" alt=""></swiper-slide>
       <swiper-slide><img src="../assets/images/7.jpg" alt=""></swiper-slide>
+      <swiper-slide><img src="../assets/images/2.jpg" alt=""></swiper-slide>
       <swiper-slide><img src="../assets/images/8.jpg" alt=""></swiper-slide>
     </swiper>
   </div>

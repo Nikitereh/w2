@@ -36,7 +36,9 @@ const people = ref([
   {"id": 17, gender: 'female', "alone": true, "first": "Катя Шевченко", "second": "", "code": 89013},
   {"id": 18, gender: '', "alone": false, "first": "Юлия", "second": "Юрий", "code": 90124},
   {"id": 19, gender: 'female', "alone": true, "first": "Ольга Шевченко", "second": "", "code": 12347},
-  {"id": 20, gender: '', "alone": true, "first": "", "second": "", "code": 23458}
+  {"id": 20, gender: '', "alone": false, "first": "Светлана", "second": "Юрий", "code": 23458},
+  {"id": 21, gender: '', "alone": false, "first": "Ирина", "second": "Владимир", "code": 23459},
+  {"id": 22, gender: 'female', "alone": true, "first": "Екатерина", "second": "", "code": 23460},
 ]);
 
 const submitHandle = () => {
